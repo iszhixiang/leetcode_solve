@@ -44,3 +44,23 @@ H--
 将 total 的值  + count[4] 的值，因为我们知道，total 代表的是论文被引用的次数，当我们需要查找 论文至少被引用 4 次的次数时，将论文被引用 5 次的次数和 被引用 4 次的相加，因为引用了 5 次那必然就也包括了4次，所以直接相加。
 ﻿
 以此类推！
+
+java 代码
+class Solution {
+    public int hIndex(int[] citations) {
+        int len = citations.length;
+        int[] count = new int[len + 1]; // 使用长度为 len+1 的数组统计
+
+        // 统计每个引用次数出现的频率（超出 len 的计为 len）
+        for (int citation : citations) {
+            if (citation >= len) {
+                count[len]++;
+            } else {
+…            }
+        }
+
+        return 0; // 默认返回 0
+    }
+}
+
+
