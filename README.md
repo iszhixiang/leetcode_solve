@@ -32,3 +32,5 @@ struct TreeNode* node = (struct TreeNode*)malloc(sizeof(struct TreeNode));
 目前看来解决动态规划题目的步骤
 1，将数据域压缩，比如说题目给出三个数取出组合最大值等等条件，那就可以把数量约束一下，比如说在给出的是两个数的情况下会是什么情况，一个数又是如何等等
 2，递推公式，这一点其实是最难的，递推公式不好推，但是慢慢找还是可以想出来的。
+
+比较巧妙的一道题  [java链接](https://github.com/iszhixiang/leetcode_solve/blob/main/leetcode_3186%E6%96%BD%E5%92%92%E7%9A%84%E6%9C%80%E5%A4%A7%E6%80%BB%E4%BC%A4%E5%AE%B3.java)
