@@ -34,3 +34,7 @@ struct TreeNode* node = (struct TreeNode*)malloc(sizeof(struct TreeNode));
 2，递推公式，这一点其实是最难的，递推公式不好推，但是慢慢找还是可以想出来的。
 
 比较巧妙的一道题  [java链接](https://github.com/iszhixiang/leetcode_solve/blob/main/leetcode_3186%E6%96%BD%E5%92%92%E7%9A%84%E6%9C%80%E5%A4%A7%E6%80%BB%E4%BC%A4%E5%AE%B3.java)
+
+----
+#### 2874. 有序三元组中的最大值 II
+[链接]https://github.com/iszhixiang/leetcode_solve/blob/main/leetcode_2874%E6%9C%89%E5%BA%8F%E4%B8%89%E5%85%83%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.java
