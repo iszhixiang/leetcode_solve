@@ -37,4 +37,4 @@ struct TreeNode* node = (struct TreeNode*)malloc(sizeof(struct TreeNode));
 
 ----
 #### 2874. 有序三元组中的最大值 II
-[链接]https://github.com/iszhixiang/leetcode_solve/blob/main/leetcode_2874%E6%9C%89%E5%BA%8F%E4%B8%89%E5%85%83%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.java
+[链接](https://github.com/iszhixiang/leetcode_solve/blob/main/leetcode_2874%E6%9C%89%E5%BA%8F%E4%B8%89%E5%85%83%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.java)
