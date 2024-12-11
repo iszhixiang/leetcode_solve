@@ -40,4 +40,5 @@ struct TreeNode* node = (struct TreeNode*)malloc(sizeof(struct TreeNode));
 [解题思路+代码](https://github.com/iszhixiang/leetcode_solve/blob/main/leetcode_2874%E6%9C%89%E5%BA%8F%E4%B8%89%E5%85%83%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.java)
 
 #### 反转链表
-对于一个链表，反转需要三个节点指针，需要注意链表的长度，节点创建的顺序及其转换关系。[反转链表]（https://github.com/iszhixiang/leetcode_solve/blob/main/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp）
+对于一个链表，反转需要三个节点指针，需要注意链表的长度，节点创建的顺序及其转换关系。
+[反转链表](https://github.com/iszhixiang/leetcode_solve/blob/main/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)
